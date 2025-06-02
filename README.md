@@ -1,2 +1,2 @@
 # CarDashboard
-Modern Power BI deshboard of mechanical car theme.
+Modern Power BI Dynamic deshboard of mechanical car theme.
