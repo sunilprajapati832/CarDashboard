@@ -25,7 +25,7 @@ The dataset contains transactional sales records, customer details, shipment log
 
 
 	
-	| **S.No.** | **Column Name**     | **Description**                                                                                   |
+| **S.No.** | **Column Name**     | **Description**                                                                                   |
 |----------|----------------------|---------------------------------------------------------------------------------------------------|
 | 1.       | Row ID              | Unique index number assigned to each record in the dataset.                                       |
 | 2.       | Order ID            | Unique identification code assigned to each customer order.                                       |
