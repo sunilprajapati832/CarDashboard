@@ -63,6 +63,9 @@ Performed using Power BI (Power Query):
 * Profitability analysis with Discount vs Profit relationship
 * Fully interactive layout for executive reporting and strategic review
 
+## Download Dashboard File
+./Raw_Car_Dashboard.pbix
+
 ## Dashboard Preview
 ![Dashboard Preview](Car1_1.png)
 
