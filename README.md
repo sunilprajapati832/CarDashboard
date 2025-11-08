@@ -12,13 +12,46 @@ The dataset contains transactional sales records, customer details, shipment log
 | **S.No..** | **Column Name**                    | **Description**                                                                                   |
 |------------| ----------------------------------- | ------------------------------------------------------------------------------------------------- |
 |1.          | Row ID  | Unique index number assigned to each record in the dataset.    |
+|2.          | Order ID  | Unique identification code assigned to each customer order.   |
+|3.          | Order Date  | The date on which the order was placed.    |
+|4.          | Ship Date  | The date on which the order was shipped to the customer.   |
+|5.          | Ship Mode  | The shipment method used for delivery (e.g., Standard Class, First Class).   |
+|6.          | Order ID  | Unique identification code assigned to each customer order.   |
+|7.          | Order Date  | The date on which the order was placed.    |
+|8.          | Ship Date  | The date on which the order was shipped to the customer.   |
+
+
+
+
+
+	
+	| **S.No.** | **Column Name**     | **Description**                                                                                   |
+|----------|----------------------|---------------------------------------------------------------------------------------------------|
+| 1.       | Row ID              | Unique index number assigned to each record in the dataset.                                       |
+| 2.       | Order ID            | Unique identification code assigned to each customer order.                                       |
+| 3.       | Order Date          | The date on which the customer placed the order.                                                  |
+| 4.       | Ship Date           | The date on which the order was shipped to the customer.                                          |
+| 5.       | Ship Mode           | The shipping method used for delivery (e.g., Standard, Second Class).                             |
+| 6.       | Customer ID         | Unique identifier assigned to each customer.                                                      |
+| 7.       | Customer Name       | Full name of the customer placing the order.                                                      |
+| 8.       | Segment             | Customer segment classification (Consumer, Corporate, Home Office).                               |
+| 9.       | Country/Region      | The country or region where the order was delivered.                                              |
+| 10.      | City                | Delivery destination city.                                                                        |
+| 11.      | State/Province      | Delivery destination state or province.                                                           |
+| 12.      | Postal Code         | ZIP or postal code of the delivery location.                                                      |
+| 13.      | Region              | Larger geographical division (e.g., East, West, North, South).                                    |
+| 14.      | Product ID          | Unique identifier assigned to each product.                                                       |
+| 15.      | Category            | Main product category (e.g., Furniture, Technology, Office Supplies).                             |
+| 16.      | Sub-Category        | Subdivision of the product category (e.g., Chairs, Phones, Paper).                                |
+| 17.      | Sales               | Total revenue generated from the sale of that product line.                                       |
+| 18.      | Quantity            | Number of units sold for the product.                                                             |
+| 19.      | Discount            | Discount applied to the sale (expressed as a percentage).                                         |
+| 20.      | Profit              | Profit earned after deducting cost and discount.                                                  |
 
 	
 	
-Order ID	Unique identification code assigned to each customer order.
-Order Date	The date on which the order was placed.
-Ship Date	The date on which the order was shipped to the customer.
-Ship Mode	The shipment method used for delivery (e.g., Standard Class, First Class).
+	
+	
 Customer ID	Unique identifier assigned to each customer.
 Customer Name	Full name of the customer placing the order.
 Segment	Customer segment classification (e.g., Consumer, Corporate, Home Office).
