@@ -65,6 +65,7 @@ Performed using Power BI (Power Query):
 
 ## Download Dashboard File
 [Download the Power BI Dashboard (.pbix)](https://github.com/sunilprajapati832/CarDashboard/blob/main/Raw_Car_Dashboard.pbix)
+[Download the Dataset (.xlsx)](https://github.com/sunilprajapati832/CarDashboard/blob/main/Car%20Dashboard%20Source%20(2).xlsx)
 
 ## Dashboard Preview
 ![Dashboard Preview](Car1_1.png)
