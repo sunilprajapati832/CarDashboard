@@ -41,5 +41,14 @@ Performed using Power BI (Power Query):
  ** Previous Period Sales
  ** Growth %
 ** Budget Utilization
-* Added data model relationships between customer, product, and sales tables
-* Created DAX measures for KPI cards, trend charts, and profit analysis
+* Added data model relationships between customer, product and sales tables
+* Created DAX measures for KPI cards, trend charts and profit analysis
+
+## Key Insights
+* Total sales, profit and growth metrics highlight overall business performance and monthly trends.
+* Replacement, servicing and other support categories reflect after-sales service demand.
+* Direct Sales, Third-Party Sales and Pre-Book Orders show varied revenue dependency on sales channels.
+* Specific product categories and sub-categories contribute disproportionately to revenue and profit.
+* Region and city comparisons indicate uneven market penetration and growth opportunities.
+* Higher discounts correlate with reduced profit margins.
+* Shipment mode performance helps assess delivery efficiency and logistics planning.
