@@ -64,7 +64,7 @@ Performed using Power BI (Power Query):
 * Fully interactive layout for executive reporting and strategic review
 
 ## Download Dashboard File
-./Raw_Car_Dashboard.pbix
+[Download the Power BI Dashboard (.pbix)](https://github.com/sunilprajapati832/CarDashboard/blob/main/Raw_Car_Dashboard.pbix)
 
 ## Dashboard Preview
 ![Dashboard Preview](Car1_1.png)
