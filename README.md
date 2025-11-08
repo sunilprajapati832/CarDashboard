@@ -8,25 +8,9 @@ This dashboard provides a comprehensive analysis of company-wide sales performan
 
 ## Dataset Information
 The dataset contains transactional sales records, customer details, shipment logistics and product-level information. Key data fields include:
-
-| **S.No..** | **Column Name**                    | **Description**                                                                                   |
-|------------| ----------------------------------- | ------------------------------------------------------------------------------------------------- |
-|1.          | Row ID  | Unique index number assigned to each record in the dataset.    |
-|2.          | Order ID  | Unique identification code assigned to each customer order.   |
-|3.          | Order Date  | The date on which the order was placed.    |
-|4.          | Ship Date  | The date on which the order was shipped to the customer.   |
-|5.          | Ship Mode  | The shipment method used for delivery (e.g., Standard Class, First Class).   |
-|6.          | Order ID  | Unique identification code assigned to each customer order.   |
-|7.          | Order Date  | The date on which the order was placed.    |
-|8.          | Ship Date  | The date on which the order was shipped to the customer.   |
-
-
-
-
-
 	
-| **S.No.** | **Column Name**     | **Description**                                                                                   |
-|----------|----------------------|---------------------------------------------------------------------------------------------------|
+| **S.No.** | **Column Name**    | **Description**                                                                                   |
+|----------|---------------------|---------------------------------------------------------------------------------------------------|
 | 1.       | Row ID              | Unique index number assigned to each record in the dataset.                                       |
 | 2.       | Order ID            | Unique identification code assigned to each customer order.                                       |
 | 3.       | Order Date          | The date on which the customer placed the order.                                                  |
@@ -48,22 +32,3 @@ The dataset contains transactional sales records, customer details, shipment log
 | 19.      | Discount            | Discount applied to the sale (expressed as a percentage).                                         |
 | 20.      | Profit              | Profit earned after deducting cost and discount.                                                  |
 
-	
-	
-	
-	
-Customer ID	Unique identifier assigned to each customer.
-Customer Name	Full name of the customer placing the order.
-Segment	Customer segment classification (e.g., Consumer, Corporate, Home Office).
-Country/Region	The country or region where the order was delivered.
-City	The city of the delivery location.
-State/Province	The state or province of the delivery location.
-Postal Code	Postal or ZIP code corresponding to the delivery region.
-Region	Higher-level regional grouping (e.g., North, East, South, West).
-Product ID	Unique identifier assigned to each product sold.
-Category	Main product category (e.g., Furniture, Technology, Office Supplies).
-Sub-Category	Subdivision of the product category (e.g., Chairs, Phones, Paper).
-Sales	Total revenue generated from the sale of the product line item.
-Quantity	Number of units sold for that product in the order.
-Discount	Percentage discount applied to the original product price.
-Profit	Profit earned from the sale after deducting cost and discount.
