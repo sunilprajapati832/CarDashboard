@@ -62,3 +62,7 @@ Performed using Power BI (Power Query):
 * Drill-down navigation: Category → Sub-Category → Product Level
 * Profitability analysis with Discount vs Profit relationship
 * Fully interactive layout for executive reporting and strategic review
+
+## Dashboard Preview
+![Dashboard Preview](Car1_1.png)
+
