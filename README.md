@@ -70,3 +70,9 @@ Performed using Power BI (Power Query):
 ## Dashboard Preview
 ![Dashboard Preview](Car1_1.png)
 
+## About Me
+I'm Sunil Prajapati — a data analyst, machine learning enthusiast and educational content creator. This project reflects my growth from beginner to practitioner and my passion for turning data into insights.
+If you found this project interesting, let’s connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Me-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sunil-prajapati832)
+
