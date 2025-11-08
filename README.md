@@ -32,3 +32,14 @@ The dataset contains transactional sales records, customer details, shipment log
 | 19.      | Discount            | Discount applied to the sale (expressed as a percentage).                                         |
 | 20.      | Profit              | Profit earned after deducting cost and discount.                                                  |
 
+## Data Cleaning / Preprocessing
+Performed using Power BI (Power Query):
+* Removed duplicate and null records
+* Standardized date formats for order and shipment fields
+* Created calculated measures for:
+** Total Sales
+** Previous Period Sales
+** Growth %
+** Budget Utilization
+* Added data model relationships between customer, product, and sales tables
+* Created DAX measures for KPI cards, trend charts, and profit analysis
