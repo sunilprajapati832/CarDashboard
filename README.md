@@ -37,9 +37,9 @@ Performed using Power BI (Power Query):
 * Removed duplicate and null records
 * Standardized date formats for order and shipment fields
 * Created calculated measures for:
-** Total Sales
-** Previous Period Sales
-** Growth %
+ ** Total Sales
+ ** Previous Period Sales
+ ** Growth %
 ** Budget Utilization
 * Added data model relationships between customer, product, and sales tables
 * Created DAX measures for KPI cards, trend charts, and profit analysis
