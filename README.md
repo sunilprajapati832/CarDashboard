@@ -52,3 +52,13 @@ Performed using Power BI (Power Query):
 * Region and city comparisons indicate uneven market penetration and growth opportunities.
 * Higher discounts correlate with reduced profit margins.
 * Shipment mode performance helps assess delivery efficiency and logistics planning.
+
+## Dashboard Features
+* KPI cards highlighting Total Sales, Growth %, Previous Sales and Budget Metrics
+* Bar charts comparing Replacement, Servicing and Other service requests
+* Sales segmentation by Direct, Third-Party and Pre-Book channels
+* Month-wise vertical bar trend for seasonal sales visualization
+* Interactive slicers for Region, Shipment Mode, Customer Name and Product Category
+* Drill-down navigation: Category → Sub-Category → Product Level
+* Profitability analysis with Discount vs Profit relationship
+* Fully interactive layout for executive reporting and strategic review
