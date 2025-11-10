@@ -69,7 +69,7 @@ Performed using Power BI (Power Query):
 [Download the Dataset (.xlsx)](https://github.com/sunilprajapati832/CarDashboard/blob/main/Car%20Dashboard%20Source%20(2).xlsx)
 
 ## Dashboard Preview
-![Dashboard Preview](Car1_1.png)
+![Dashboard Preview](DashboardImage/Car1.png)
 
 ## About Me
 I'm Sunil Prajapati — a data analyst, machine learning enthusiast and educational content creator. This project reflects my growth from beginner to practitioner and my passion for turning data into insights.
