@@ -70,8 +70,8 @@ Performed using Power BI (Power Query):
 
 ## Dashboard Preview
 ![Dashboard Preview](DashboardImage/Car1_1.png)
-![Dashboard Preview](DashboardImage/Car1.png)
 ![Dashboard Preview](DashboardImage/Car2.png)
+![Dashboard Preview](DashboardImage/Car1.png)
 ![Dashboard Preview](DashboardImage/CarOption.png)
 
 ## About Me
