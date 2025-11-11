@@ -69,6 +69,10 @@ Performed using Power BI (Power Query):
 [Download the Dataset (.xlsx)](https://github.com/sunilprajapati832/CarDashboard/blob/main/Car%20Dashboard%20Source%20(2).xlsx)
 
 ## Dashboard Preview
+![Dashboard Preview](DashboardImage/Car1_1.png)
+![Dashboard Preview](DashboardImage/Car1.png)
+![Dashboard Preview](DashboardImage/Car1.png)
+![Dashboard Preview](DashboardImage/Car1.png)
 ![Dashboard Preview](DashboardImage/Car1.png)
 
 ## About Me
