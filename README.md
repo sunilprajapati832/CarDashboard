@@ -8,8 +8,7 @@ This project presents a visually interactive Car-Themed Sales Dashboard develope
 This dashboard provides a comprehensive analysis of company-wide sales performance across products, customers and regions. It helps stakeholders track total revenue, profit and growth trends while comparing current performance with previous periods and allocated budgets. The dashboard supports strategic decision-making by highlighting sales patterns, customer purchasing behavior and operational metrics such as shipment modes and order fulfillment timelines.
 
 ## Dataset Information
-The dataset contains transactional sales records, customer details, shipment logistics and product-level information. Key data fields include:
-	
+The dataset contains transactional sales records, customer details, shipment logistics and product-level information. Key data fields include:	
 | **S.No.** | **Column Name**    | **Description**                                                                                   |
 |----------|---------------------|---------------------------------------------------------------------------------------------------|
 | 1.       | Row ID              | Unique index number assigned to each record in the dataset.                                       |
